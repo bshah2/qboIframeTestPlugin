@@ -2,10 +2,10 @@
   "allowedOrigins": [
     "*"
   ],
-  "pluginId": "starterplugin",
+  "pluginId": "qboIframeTestPlugin",
   "accessPoints": [
     {
-      "overrideAppRoute": "starterplugin",
+      "overrideAppRoute": "qboIframeTestPlugin",
       "sourcePath": "/index.html"
     }
   ]

@@ -1,11 +1,11 @@
 {
-  "name": "starterplugin",
+  "name": "qboIframeTestPlugin",
   "version": "0.1.0",
-  "description": "starter plugin",
+  "description": "qboIframeTestPlugin",
   "readme": "README.md",
   "repository" : {
     "type" : "git",
-    "url" : "http://gitlab.corp.intuit.net/qboplugins/starterplugin.git"
+    "url" : "https://github.com/bshah2/qboIframeTestPlugin.git"
   },
   "dependencies": {
     "express": "~3.5.1",
